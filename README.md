@@ -544,15 +544,6 @@ TODO - continue summarising from "Smart contract accounts" section
 
 ### Links <a id="tips-links"></a>
 
-#### Ink
-
-* https://use.ink/
-* https://github.com/paritytech/awesome-ink
-* https://github.com/paritytech/ink-examples
-* https://substrate.stackexchange.com/questions/tagged/ink?tab=Votes
-* https://www.youtube.com/@ink-lang
-* https://github.com/paritytech/cargo-contract
-* https://polkadot.js.org/docs/api-contract
 
 #### Docker
 
