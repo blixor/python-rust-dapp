@@ -1,30 +1,3 @@
-### Smart Contracts using XCM
-
-## Table of Contents
-
-* [Setup](#setup)
-	* [Setup Docker Container](#setup-container)
-	* [Run Cargo Contracts Node in Docker Container](#run-cargo-contracts-node)
-* Build & Upload
-	* [**Quickstart** Build & Upload "Flipper" ink! Rust Smart Contract to Local Testnet (using Cargo Contract)](#quick-build-upload)
-	* [**Quickstart** Build & Upload "Basic Contract Caller" ink! Rust Smart Contract to Local Testnet (using Cargo Contract)](#quick-basic-contract-caller)
-	* [**Quickstart** Build & Upload "IPSP22" ink! Rust Smart Contract to Local Testnet (using Cargo Contract)](#quick-ipsp22)
-	* [**Quickstart** Build & Upload "Unnamed" ink! Rust Smart Contract to Local Testnet (using Cargo Contract)](#quick-unnamed)
-	* [Build & Upload Moonbeam VRF Randomness Precompile Solidity Smart Contract to Moonbase Alpha Testnet (using Truffle)](#moonbase-vrf)
-	* [Build & Upload Chainlink VRFD20 Randomness Solidity Smart Contract to Ethereum Sepolia Testnet (using Truffle)](#vrfd20)
-	* [Build & Upload "Flipper" ink! Rust Smart Contract to Local Testnet (using Cargo Contract)](#build-upload)
-	* [**UNSUPPORTED** Build & Upload "Flipper" ink! Rust Smart Contract to Local Testnet (using Swanky CLI)](#build-upload-swanky)
-* Interact
-	* [Interact with ink! Python Smart Contract](#interact-python)
-	* [Interact with ink! Rust Flipper Smart Contract using Polkadot.js API](#interact-polkadot-js-flipper)
-	* [Interact with ink! Rust Flipper Smart Contract using Substrate Contracts Node](#interact-substrate-contracts-node-flipper)
-* Tips
-	* [Tips Docker Commands](#tips-docker)
-	* [Tips Notes](#tips-notes)
-	* [Tips Links](#tips-links)
-
-## Setup <a id="setup"></a>
-
 ### Setup Docker Container <a id="setup-container"></a>
 
 * Note:
